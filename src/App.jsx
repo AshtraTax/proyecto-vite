@@ -5,8 +5,8 @@ import { tasks as data} from './data/tasks'
 export function App(){ 
 
   return (
-    <main className='bg-zinc-900 h-screen'>
-      <div className="container mx-auto p-10">
+    <main className='bg-zinc-900 min-h-screen h-auto'>
+      <div className="flex-none container mx-auto p-10">
         <TaskForm></TaskForm>{/*Formulario*/}   
         <TaskList></TaskList>{/*Lista con tareas*/}
       </div>
