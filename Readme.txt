@@ -1,3 +1,6 @@
+This repository is just a practice of when i started learning React
+
+
 
 SUBIR ARCHIVOS A REPO
 
